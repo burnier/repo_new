@@ -4,3 +4,5 @@ fofinho
 ovos de codorna para release v1.0
 
 mayve version v1.1
+
+now v1.2
